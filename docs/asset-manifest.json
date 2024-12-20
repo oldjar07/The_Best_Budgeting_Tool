@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/The_Best_Budgeting_Tool/static/css/main.c1f00f2e.css",
+    "main.js": "/The_Best_Budgeting_Tool/static/js/main.ae2054da.js",
+    "static/js/213.8496ae18.chunk.js": "/The_Best_Budgeting_Tool/static/js/213.8496ae18.chunk.js",
+    "static/js/455.059b857c.chunk.js": "/The_Best_Budgeting_Tool/static/js/455.059b857c.chunk.js",
+    "index.html": "/The_Best_Budgeting_Tool/index.html",
+    "main.c1f00f2e.css.map": "/The_Best_Budgeting_Tool/static/css/main.c1f00f2e.css.map",
+    "main.ae2054da.js.map": "/The_Best_Budgeting_Tool/static/js/main.ae2054da.js.map",
+    "213.8496ae18.chunk.js.map": "/The_Best_Budgeting_Tool/static/js/213.8496ae18.chunk.js.map",
+    "455.059b857c.chunk.js.map": "/The_Best_Budgeting_Tool/static/js/455.059b857c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f00f2e.css",
+    "static/js/main.ae2054da.js"
+  ]
+}

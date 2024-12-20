@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
+  "homepage": "https://oldjar07.github.io/The_Best_Budgeting_Tool",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
